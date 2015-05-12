@@ -45,20 +45,7 @@ namespace CsvLibrary
 
         public void WriteToCsv<T>(List<T> Items, string FileName)
         {
-            /*
-            using (var writer = new CsvFileWriter(FileName))
-            {
-                foreach (T item in Items)
-                {
-                    List<string> columns = new List<string>();
-                    for (int col = 0; col < numColumns; col++)
-                    {
-                        columns.Add((string)row.Cells[col].Value ?? String.Empty);
-                    }
-                    writer.WriteRow(columns);
-                }
-            }
-            */ 
+            throw new NotImplementedException();
         }
     }
 }
