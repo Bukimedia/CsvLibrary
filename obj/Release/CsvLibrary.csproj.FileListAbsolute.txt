@@ -1,0 +1,5 @@
+C:\Documentos\Visual Studio 2013\Projects\CsvLibrarySolution\CsvLibrary\bin\Release\CsvLibrary.dll
+C:\Documentos\Visual Studio 2013\Projects\CsvLibrarySolution\CsvLibrary\bin\Release\CsvLibrary.pdb
+C:\Documentos\Visual Studio 2013\Projects\CsvLibrarySolution\CsvLibrary\obj\Release\CsvLibrary.csprojResolveAssemblyReference.cache
+C:\Documentos\Visual Studio 2013\Projects\CsvLibrarySolution\CsvLibrary\obj\Release\CsvLibrary.dll
+C:\Documentos\Visual Studio 2013\Projects\CsvLibrarySolution\CsvLibrary\obj\Release\CsvLibrary.pdb
